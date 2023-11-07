@@ -42,7 +42,7 @@ class _FormDemoState extends State<FormDemo> {
             ),
             TextFormField(
               decoration: const InputDecoration(
-                icon: const Icon(Icons.phone),
+                icon: const Icon(Icons.key),
                 hintText: 'Masukkan no telepon',
                 labelText: 'Telepon',
               ),
